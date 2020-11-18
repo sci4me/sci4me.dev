@@ -29,6 +29,7 @@ pygmentscodefencesguesssyntax = true
     hidecopyright = true
 
     rtl = false
+    colorscheme = "dark"
 
     math = true
     # custom_css = ["css/custom.css"]
