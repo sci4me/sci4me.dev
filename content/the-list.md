@@ -126,7 +126,7 @@ Also, some of them (many? *shugs*) may or may not be public; however, I will onl
      - read clobber optimization
      - offset optimization
 
-   (In all honesty, half of them are nearly worthless, but still :P)
+     (In all honesty, half of them are nearly worthless, but still :P)
 
  - [**caesar**](https://github.com/sci4me/caesar) - A rewrite of one of the programming projects I did in college before dropping out
    - Honestly I just enjoyed this project so much, for whatever reason, that I decided to re-implement it (numerous times lol). This one happens to be in [Crystal](https://crystal-lang.org/).
