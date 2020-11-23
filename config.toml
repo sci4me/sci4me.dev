@@ -45,6 +45,11 @@ pygmentscodefencesguesssyntax = true
     weight = 2
     url = "https://twitter.com/sci4me/"
 
+[[menu.main]]
+    name = "The List"
+    weight = 1
+    url = "/the-list"
+
 # [[menu.main]]
 #     name = "Blog"
 #     weight = 1
