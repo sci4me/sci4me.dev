@@ -175,3 +175,6 @@ Also, some of them (many? *shugs*) may or may not be public; however, I will onl
  - [**x6502**](https://github.com/sci4me/x6502) - A fork of [the original x6502 project](https://github.com/haldean/x6502) that implements the full WDC 65c02 instruction set
 
  - [**bfkit**](https://github.com/sci4me/bfkit) - A brainfuck 'toolkit' including a compiler and (gdb-style) debugger
+
+ - **MCRHDL** - Minecraft Redstone Hardware Description Language
+   - Someday (TM).
