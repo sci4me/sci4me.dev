@@ -162,7 +162,7 @@ Also, some of them (many? *shugs*) may or may not be public; however, I will onl
    
      This is also one of my favorite [data structures](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.30.7319&rep=rep1&type=pdf), not because of its usefulness necessarily, but just because, well, idk really :P I just think it's neat. It's certainly one of the more unique ones I've seen. It also happens to be beautifully simple.
 
-     Maybe I'll blog about it someday (TM).
+     Maybe I'll blog about it someday (TM)
 
  - [**jaja**](https://github.com/sci4me/jaja) - A rewrite of a stupid esolang I made a few years ago (or.. more..) or something.
    - So back in the day (long enough ago that my memory is essentially nonexistent) I wrote a little esolang which was _basically_ just [False](http://strlen.com/false-language/). (Now that I think about it, it must have been around the time (after, probably) I wrote **JBFJit** because this esolang also had a JIT to JVM bytecode...)
@@ -177,4 +177,4 @@ Also, some of them (many? *shugs*) may or may not be public; however, I will onl
  - [**bfkit**](https://github.com/sci4me/bfkit) - A brainfuck 'toolkit' including a compiler and (gdb-style) debugger
 
  - **MCRHDL** - Minecraft Redstone Hardware Description Language
-   - Someday (TM).
+   - Someday (TM)
