@@ -74,7 +74,7 @@ Also, some of them (many? *shugs*) may or may not be public; however, I will onl
 
      Also, side note, this was the project I used to learn JNI -- everyone talks shit about JNI but frankly, I'm kinda a fan (in _some_ sense of the word).
 
- - [**Neo**](https://github.com/sci4me/Neo) - My version of Lua but not crap
+ - [**Neo**](https://github.com/sci4me/Neo-old) - My version of Lua but not crap
    - Don't get me wrong, I love Lua to death, but I also hate it for a few (mostly superficial) reasons.
      1. then/end rather than braces
      2. arrays starting at 1
