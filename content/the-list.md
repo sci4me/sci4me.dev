@@ -108,7 +108,7 @@ Also, some of them (many? *shugs*) may or may not be public; however, I will onl
 
      (There either is or will be (TM) more on the 65(c)02 computer project on this page or somewhere on this site.)
 
- - [**FadeBabe**](https://github.com/sci4me/FadeBabe) - A crappy esolang that runs on my 65c02 computer
+ - [**FadeBabe02**](https://github.com/sci4me/FadeBabe02) - A crappy esolang that runs on my 65c02 computer
 
  - [**ICDB**](https://github.com/sci4me/ICDB) - In-Circuit Debugger (for 65(c)02 computer systems)
    - So after getting the PCB manufactured for my homebrew 65(c)02 computer, unsurprisingly, there were a few kinks (bugs, as it were). This (incomplete) project was an attempt to build something that could get inbetween the CPU and the rest of the computer to allow me to debug things. As I recall, I got bored of working on it (debugging) and haven't touched it since :P
