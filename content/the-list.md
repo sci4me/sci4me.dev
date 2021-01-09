@@ -15,6 +15,11 @@ Also, some of them (many? *shugs*) may or may not be public; however, I will onl
 
 :)
 
+ - [**lua-ihex**](https://github.com/sci4me/lua-ihex) - An Intel Hex encoder/decoder for Lua
+   - I have absolutely no idea why I decided to create this, other than that it was (has been) a lot of fun. I think the fun in this project was honestly nothing to do with what the library itself is and does, but more about the process.
+     It's nothing special; Intel Hex is a _very_ simple file format that conveys binary information in ASCII form. A simple implementation only takes a few hundred lines (or perhaps even less in more terse languages). But like I said,
+     it was ... it was "an end to a means"(?) -- does that even make sense? lol. That probably isn't a very good phrase to explain what I said about "the process" but f*ck it, ya get me. ;)
+     
  - **bred** - Better Editor
    - I have used just about every editor that is actually worth giving a shot that exist;
      VS Code, IntelliJ, Sublime Text 2 and Sublime Text 3, Notepad++ (lol jk that was before I knew anything), Vim, etc. (Okay I'm only kidding, I'm _quite certain_ there's plenty of editors worth giving a shot that I didn't include here. Don't @ me.) The only major one that I haven't tried for long enough to count (that I can think of rn) is Emacs.
