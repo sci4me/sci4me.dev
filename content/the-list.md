@@ -15,7 +15,7 @@ Also, some of them (many? *shugs*) may or may not be public; however, I will onl
 
 :)
 
- - [**lua-ihex**](https://github.com/sci4me/lua-ihex) - An Intel Hex encoder/decoder for Lua
+ - [**ihex.lua**](https://github.com/sci4me/ihex.lua) - An Intel Hex encoder/decoder for Lua
    - I have absolutely no idea why I decided to create this, other than that it was (has been) a lot of fun. I think the fun in this project was honestly nothing to do with what the library itself is and does, but more about the process.
      It's nothing special; Intel Hex is a _very_ simple file format that conveys binary information in ASCII form. A simple implementation only takes a few hundred lines (or perhaps even less in more terse languages). But like I said,
      it was ... it was "an end to a means"(?) -- does that even make sense? lol. That probably isn't a very good phrase to explain what I said about "the process" but f*ck it, ya get me. ;)
